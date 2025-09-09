@@ -1,2 +1,1 @@
-# Student-management
-CRUD application for managing T-shirt products.
+"# Student Management Project" 
